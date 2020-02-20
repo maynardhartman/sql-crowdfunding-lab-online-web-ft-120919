@@ -7,8 +7,8 @@
 
 ## Identify Table Example
 
-`SQL` is a programming language that allows you to "nest" statements inside each
-other. Let's quickly consider an example using grocery data.
+#`SQL` is a programming language that allows you to "nest" statements inside each
+#other. Let's quickly consider an example using grocery data.
 
 ### Create a Grocery Table
 
